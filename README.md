@@ -1,7 +1,18 @@
-Welcome to the Sorting Visualizer! This interactive application was developed as a personal project to enhance my understanding of sorting algorithms and to visually demonstrate how these algorithms work. Built with React, the Sorting Visualizer offers an engaging way to explore the mechanics behind various sorting techniques including Merge Sort, Quick Sort, Heap Sort, and Bubble Sort.
+Sorting Visualizer
+Sorting Visualizer is an interactive web application developed to demonstrate the inner workings of fundamental sorting algorithms. This project was built using React as a means to deepen my understanding of algorithmic problem-solving while creating an educational tool for others interested in data structures and algorithms.
 
-The primary goal of this project is to provide an educational tool that visually explains the step-by-step process of sorting, helping both beginners and advanced learners grasp the underlying principles. Each algorithm is displayed with real-time animations that highlight the comparisons and swaps made during sorting, making it easier to follow the logic and efficiency of each method.
+The visualizer provides a real-time, animated representation of how different sorting algorithms operate. It includes implementations of Merge Sort, Quick Sort, Heap Sort, and Bubble Sort, each presented with clear, step-by-step animations. These visualizations help users better understand the logic behind each algorithm by highlighting comparisons, swaps, and the overall flow of execution.
 
-This project includes detailed explanations of each sorting algorithm, combining visualizations with theoretical knowledge. Users can see how algorithms like Merge Sort divide arrays into smaller subarrays, or how Quick Sort uses pivot elements to sort efficiently. The Heap Sort visualization shows how a binary heap structure is utilized, while the Bubble Sort animation illustrates the simplicity and inefficiency of this elementary algorithm.
+The primary objective of this project is to provide a practical and visual learning experience. The tool combines theoretical knowledge with visual feedback, making abstract concepts more intuitive. For instance:
 
-By integrating theory alongside the visualizations, this tool serves as a comprehensive resource for anyone looking to deepen their understanding of sorting algorithms. The Sorting Visualizer not only helps in learning and teaching but also showcases the power of React in creating dynamic, educational web applications.
+Merge Sort demonstrates recursive array division and merging.
+
+Quick Sort visualizes the use of pivot elements and partitioning.
+
+Heap Sort shows the binary heap structure and sorting process.
+
+Bubble Sort illustrates the basic concept of adjacent comparisons and swaps.
+
+This application is designed to support learners at various levels, from beginners seeking clarity on sorting concepts to more advanced users looking to reinforce their understanding. It also serves as a showcase of how React can be effectively used to build dynamic and responsive educational interfaces.
+
+The project architecture is modular, leveraging React’s component-based structure, and emphasizes readability and maintainability in code.
